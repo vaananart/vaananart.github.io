@@ -1,0 +1,17 @@
+:root {
+    background-color: rgb(45, 150, 168);  
+}
+
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    /* padding: 0; */
+}
+
+h1,
+h2,
+h3,
+h4 {
+    margin-bottom: 2rem;
+}
